@@ -8,7 +8,7 @@ bin-release/
 .settings/lost settings
 
 # Executables
-*.swf
+*.swf.engbe.github
 *.air
 *.ipa.air.abb
 *.apk.lab
